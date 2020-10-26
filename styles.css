@@ -1,0 +1,41 @@
+body {
+  font-size: 16px;
+  color: #fff;
+ 
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  
+  border-radius: 0;
+  border: 0;
+  background-color:darkgray;
+}
+
+
+
+.navbar-brand {
+  padding-top: 25px;
+  margin-left: 0px;
+}
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+div
+{background-color: darkgray;}
+h2
+{ 
+  color:black; 
+background-color:white;
+ text-align:center;}
+ h3{
+  color:black;
+ }
+.container{
+  text-align:justify;
+}
